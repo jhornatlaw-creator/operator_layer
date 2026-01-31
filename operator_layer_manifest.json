@@ -1,0 +1,237 @@
+﻿{
+    "generated_at":  "2026-01-30T20:12:08",
+    "source":  "release_build",
+    "version":  "2026-01-30-p11",
+    "files":  [
+                  {
+                      "path":  "commands\\boot.md",
+                      "sha256":  "61ebf5b11a143198e8275fe00960dd4fb5735a229a5bf65380db1872b8ba8b11",
+                      "bytes":  26448
+                  },
+                  {
+                      "path":  "commands\\bootstrap_context.md",
+                      "sha256":  "971a29a6714d06ef06826486ae894003592268ace3c7405a88e05b6eaa4f9e9f",
+                      "bytes":  6550
+                  },
+                  {
+                      "path":  "commands\\critical_review.md",
+                      "sha256":  "036b895d31b3e950b145b6bb096ff5477c5ac785ca84e1bd54d317c6e13e0b3b",
+                      "bytes":  283
+                  },
+                  {
+                      "path":  "commands\\crypto.md",
+                      "sha256":  "67591f087cb74e6e03dbc70100d9438fef7d2e10e7d71acefdc5c540f109b108",
+                      "bytes":  5651
+                  },
+                  {
+                      "path":  "commands\\da-portal.md",
+                      "sha256":  "d56397480ab7ae6a2ec439f70cc68893f480147faaec6f0a207534f9c74c075d",
+                      "bytes":  3583
+                  },
+                  {
+                      "path":  "commands\\dfs.md",
+                      "sha256":  "d9da17c365d62357983ac5c1ad9a548324a063fbd46eb265776d54b32d638b87",
+                      "bytes":  5946
+                  },
+                  {
+                      "path":  "commands\\distress.md",
+                      "sha256":  "5fbdddfc29eb32c64dbbd7423fae60fe8798b736c1bb7464d8508ebd73f372c9",
+                      "bytes":  4507
+                  },
+                  {
+                      "path":  "commands\\docs.md",
+                      "sha256":  "b591088232223201d3a0e6e64654bdec0ecb172298ab5743dcd4007090155af2",
+                      "bytes":  3491
+                  },
+                  {
+                      "path":  "commands\\dual-workspace.md",
+                      "sha256":  "31895ef601751d04b4d499f7b374499916e6c5b3b90d1d4b2fd3b39be4266b38",
+                      "bytes":  4618
+                  },
+                  {
+                      "path":  "commands\\execute_full_plan.md",
+                      "sha256":  "a167eac5c8efed082263bddb0ca0e4fc890c6bbc89031aed4382d4630b11e653",
+                      "bytes":  4187
+                  },
+                  {
+                      "path":  "commands\\execute_full_suite.md",
+                      "sha256":  "78c58e0bff149b12c34ab0712f75526a857b302285d5a4ed3024cfd6ac646d5f",
+                      "bytes":  130
+                  },
+                  {
+                      "path":  "commands\\find-ncaab-game.md",
+                      "sha256":  "ee4f72869d2ac10f5dd152d68aa1d75af759449e2e73cb1a0e96604d686b437a",
+                      "bytes":  1274
+                  },
+                  {
+                      "path":  "commands\\jhornlaw.md",
+                      "sha256":  "17e664a5d28c7257d34314c30630c2d6d2006dc743b60b4fa23179bb9e8a3a09",
+                      "bytes":  1669
+                  },
+                  {
+                      "path":  "commands\\kalshi-arb.md",
+                      "sha256":  "066d683c27c9470daa6147434fe6d58bc6f79c3723b023d1d555950c7e62cb78",
+                      "bytes":  2768
+                  },
+                  {
+                      "path":  "commands\\kalshi.md",
+                      "sha256":  "8ddf4d7fd912b1d0dba759c5c14d63545904746ce0d990fe6184492212b81fd2",
+                      "bytes":  3415
+                  },
+                  {
+                      "path":  "commands\\load_context.md",
+                      "sha256":  "321415fa02917cf4f3765aebd055c7d159501766a3f2f9eaf2c8b0477872ba4f",
+                      "bytes":  2898
+                  },
+                  {
+                      "path":  "commands\\ops_smoke.md",
+                      "sha256":  "214b14cec9145ab9d8ed6888e9cf6df0569587d3563f8135f2f101cbc43f5aaf",
+                      "bytes":  2433
+                  },
+                  {
+                      "path":  "commands\\player-props.md",
+                      "sha256":  "25addc0042ea6d5ebbd2d4b488e32c4444b5bfa4533e0a9c2754cfe31d89d816",
+                      "bytes":  4926
+                  },
+                  {
+                      "path":  "commands\\polymarket.md",
+                      "sha256":  "d5fc9d5b1cfd6dfdbaf499efd876fff7bc287cd7019e3ac292fa9d0125d64790",
+                      "bytes":  3695
+                  },
+                  {
+                      "path":  "commands\\publicdata.md",
+                      "sha256":  "6999b7c5c68e7f328b56c4307432df32f1ae8c696e4f208394cb7ea0b3e82d9d",
+                      "bytes":  2874
+                  },
+                  {
+                      "path":  "commands\\review_quick.md",
+                      "sha256":  "5607ed0abc6dd09c3951f3becf89dcd36a9422e3c666c8e300b9790f585f28e5",
+                      "bytes":  2069
+                  },
+                  {
+                      "path":  "commands\\rules-audit.md",
+                      "sha256":  "008a452e6ec7dbfcc4eb2d23efa79042d4748199890da334bd95bd9b27f08bc2",
+                      "bytes":  1361
+                  },
+                  {
+                      "path":  "commands\\save_context.md",
+                      "sha256":  "74bb58af74071c50d923782c4320ac9bb7a53a107e2b9478dc8f3afff311838d",
+                      "bytes":  18346
+                  },
+                  {
+                      "path":  "commands\\sports-arb.md",
+                      "sha256":  "0b9fac955e8724d2325d29810c10e1593db871578c34e2affa6785b9d3f75531",
+                      "bytes":  4505
+                  },
+                  {
+                      "path":  "commands\\spread-arb.md",
+                      "sha256":  "99b53dbc4a15d2881d21ddc9174fdbf41a0dbcb69690cf1b081ceade44ef334a",
+                      "bytes":  3498
+                  },
+                  {
+                      "path":  "commands\\synthesize.md",
+                      "sha256":  "2d4407064d123dff7dccbb2bf044cdf4ddd7b1d91d4d86665116c747a3a31794",
+                      "bytes":  4902
+                  },
+                  {
+                      "path":  "commands\\tangent.md",
+                      "sha256":  "c8aeb1993e05991a340cf3d07ae327d1b1baca350f2d63f0c0339f4991b6aa88",
+                      "bytes":  1842
+                  },
+                  {
+                      "path":  "commands\\token_optimizer.md",
+                      "sha256":  "5f8ae389d2c492b9b52bb83287a15b0994ee90a30f7ab5e5f85378836d9a12a2",
+                      "bytes":  26386
+                  },
+                  {
+                      "path":  "commands\\txdps-deepdive.md",
+                      "sha256":  "332ff6842f5636aed262b325732f3d45ae99a5a9d220d431fe407cdad7d6a56b",
+                      "bytes":  4654
+                  },
+                  {
+                      "path":  "commands\\xprediction.md",
+                      "sha256":  "1080b3b93432dee316252f851173a8f9bdcef32ba67e2b311b14bb2840e44900",
+                      "bytes":  5747
+                  },
+                  {
+                      "path":  "lib\\boot_guard.ps1",
+                      "sha256":  "16ebee01ffc01de9d8ba5ffac6d84076831b3c6d33ae82136aaf57c6e281664d",
+                      "bytes":  7513
+                  },
+                  {
+                      "path":  "lib\\context_conflicts.ps1",
+                      "sha256":  "f6078e44afa618653d24b623086a5280e122df2786ed59409b29e19f62084b56",
+                      "bytes":  10867
+                  },
+                  {
+                      "path":  "lib\\download_release.ps1",
+                      "sha256":  "2bc0e5a81d5d4899660ee140aa81890431444a5c454f1afcd34c4ce89a721d63",
+                      "bytes":  9511
+                  },
+                  {
+                      "path":  "lib\\maintenance.ps1",
+                      "sha256":  "e8640cad4c85bc12f5ac3ebff40b8714f57746581fd0c5d5c0d612cced615e7f",
+                      "bytes":  18695
+                  },
+                  {
+                      "path":  "lib\\notify.ps1",
+                      "sha256":  "bc1acc1a98f911eda71db388ab526da0cf3d5517ccf44db9bfd40cadaee0c514",
+                      "bytes":  5683
+                  },
+                  {
+                      "path":  "lib\\schedule_maintenance.ps1",
+                      "sha256":  "65a04e9c8848d636555b9c40454c84170e86d8be8845158235aa958f87dc4322",
+                      "bytes":  12990
+                  },
+                  {
+                      "path":  "lib\\schedule_updates.ps1",
+                      "sha256":  "7d4257f9a35da947d58ac71697c9e31d7809f73d9b467180cd16cf341e2dabca",
+                      "bytes":  15211
+                  },
+                  {
+                      "path":  "lib\\smoke_tests.ps1",
+                      "sha256":  "fc8a190740099a7e830fcfabac4f9e0875f659f5344a5762e683dd42489aa1cf",
+                      "bytes":  25218
+                  },
+                  {
+                      "path":  "lib\\verify_manifest.ps1",
+                      "sha256":  "8f8b13836c911dd34f0039e9abec48d2723775dffb2432b0f3051bcdaf1421a0",
+                      "bytes":  5600
+                  },
+                  {
+                      "path":  "RUNBOOK_REHYDRATION.md",
+                      "sha256":  "2a169e5ac45704770f1159f04726408549512c13304ba347e6e40520328acc11",
+                      "bytes":  27241
+                  },
+                  {
+                      "path":  "CHANGELOG_OPERATOR_LAYER.md",
+                      "sha256":  "49ff237bc848f5c3981ffbb38187437332065692de05cca88478719734ba02da",
+                      "bytes":  8247
+                  },
+                  {
+                      "path":  "INSTALLER_README.md",
+                      "sha256":  "a8274fb6053fd15566573d9b08a764ce525bc1376fcd937dc82c805a462143ba",
+                      "bytes":  8171
+                  },
+                  {
+                      "path":  "VERSION",
+                      "sha256":  "edb3035ac434075371e34185dbd355cf303b5cd03c5e0273cfb216a6fdebb44f",
+                      "bytes":  16
+                  },
+                  {
+                      "path":  "install.ps1",
+                      "sha256":  "b3c5b7656cefcf8377640dc4707db8653d2885bd26b0c394f7fb97ab083c7102",
+                      "bytes":  15295
+                  },
+                  {
+                      "path":  "update.ps1",
+                      "sha256":  "78c15ba572052485c67b328dc94b1e5b5bb5e1cfdafb7d3b107ab56908361511",
+                      "bytes":  21962
+                  },
+                  {
+                      "path":  "release.ps1",
+                      "sha256":  "c54589fb47df9cd890dd13e8bfde53639bbde445a73ef55e92e3a1507962eaaa",
+                      "bytes":  9166
+                  }
+              ]
+}
