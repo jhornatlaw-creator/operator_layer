@@ -1,0 +1,19 @@
+# Evidence bundles (contain runtime data, may have secrets)
+evidence/
+
+# Transcripts and logs
+*.log
+transcripts/
+
+# Temp files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
